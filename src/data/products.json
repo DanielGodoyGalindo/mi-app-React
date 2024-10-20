@@ -5,7 +5,8 @@
         "image": "http://dummyimage.com/211x100.png/dddddd/000000",
         "price": "€4,86",
         "description": "quam suspendisse potenti nullam porttitor lacus at",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "image": "http://dummyimage.com/156x100.png/cc0000/ffffff",
         "price": "€8,28",
         "description": "molestie hendrerit at vulputate vitae nisl",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "image": "http://dummyimage.com/172x100.png/cc0000/ffffff",
         "price": "€4,32",
         "description": "consequat ut nulla sed accumsan felis",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "image": "http://dummyimage.com/172x100.png/ff4444/ffffff",
         "price": "€1,45",
         "description": "et ultrices posuere cubilia curae mauris viverra diam",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "image": "http://dummyimage.com/200x100.png/dddddd/000000",
         "price": "€2,69",
         "description": "vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "image": "http://dummyimage.com/110x100.png/dddddd/000000",
         "price": "€8,84",
         "description": "eget massa tempor convallis nulla neque libero",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "image": "http://dummyimage.com/152x100.png/ff4444/ffffff",
         "price": "€5,14",
         "description": "in tempus sit amet sem fusce",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
         "price": "€3,45",
         "description": "curabitur convallis duis consequat dui nec nisi volutpat",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "image": "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
         "price": "€2,74",
         "description": "interdum venenatis turpis enim blandit mi",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
         "price": "€9,78",
         "description": "quis libero nullam sit amet turpis elementum ligula",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "image": "http://dummyimage.com/205x100.png/cc0000/ffffff",
         "price": "€6,07",
         "description": "enim blandit mi in porttitor pede",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "image": "http://dummyimage.com/179x100.png/dddddd/000000",
         "price": "€9,53",
         "description": "pede venenatis non sodales sed",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "image": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
         "price": "€7,20",
         "description": "in felis eu sapien cursus vestibulum",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "image": "http://dummyimage.com/204x100.png/cc0000/ffffff",
         "price": "€8,00",
         "description": "natoque penatibus et magnis dis parturient montes",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "image": "http://dummyimage.com/175x100.png/cc0000/ffffff",
         "price": "€3,60",
         "description": "a pede posuere nonummy integer non velit",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "image": "http://dummyimage.com/238x100.png/ff4444/ffffff",
         "price": "€2,57",
         "description": "vel dapibus at diam nam tristique tortor",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "image": "http://dummyimage.com/192x100.png/ff4444/ffffff",
         "price": "€6,81",
         "description": "viverra pede ac diam cras pellentesque",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "image": "http://dummyimage.com/129x100.png/ff4444/ffffff",
         "price": "€2,60",
         "description": "purus phasellus in felis donec semper",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "image": "http://dummyimage.com/102x100.png/ff4444/ffffff",
         "price": "€4,43",
         "description": "enim blandit mi in porttitor pede justo",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "image": "http://dummyimage.com/157x100.png/dddddd/000000",
         "price": "€6,71",
         "description": "convallis eget eleifend luctus ultricies eu nibh quisque",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "image": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
         "price": "€8,37",
         "description": "felis ut at dolor quis odio consequat varius",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "image": "http://dummyimage.com/208x100.png/ff4444/ffffff",
         "price": "€5,23",
         "description": "sed vestibulum sit amet cursus id",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "image": "http://dummyimage.com/237x100.png/ff4444/ffffff",
         "price": "€1,94",
         "description": "pellentesque eget nunc donec quis orci eget orci vehicula condimentum",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "image": "http://dummyimage.com/246x100.png/cc0000/ffffff",
         "price": "€8,90",
         "description": "proin eu mi nulla ac",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "image": "http://dummyimage.com/230x100.png/ff4444/ffffff",
         "price": "€2,81",
         "description": "ligula vehicula consequat morbi a ipsum",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "image": "http://dummyimage.com/120x100.png/cc0000/ffffff",
         "price": "€1,89",
         "description": "morbi ut odio cras mi pede malesuada",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "image": "http://dummyimage.com/108x100.png/cc0000/ffffff",
         "price": "€4,05",
         "description": "nulla mollis molestie lorem quisque ut erat curabitur",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "image": "http://dummyimage.com/147x100.png/ff4444/ffffff",
         "price": "€2,87",
         "description": "rutrum nulla nunc purus phasellus in felis",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 29,
@@ -229,7 +257,8 @@
         "image": "http://dummyimage.com/203x100.png/ff4444/ffffff",
         "price": "€4,02",
         "description": "accumsan odio curabitur convallis duis consequat",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 30,
@@ -237,7 +266,8 @@
         "image": "http://dummyimage.com/140x100.png/cc0000/ffffff",
         "price": "€9,22",
         "description": "eros suspendisse accumsan tortor quis turpis sed ante",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 31,
@@ -245,7 +275,8 @@
         "image": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
         "price": "€2,83",
         "description": "congue risus semper porta volutpat",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 32,
@@ -253,7 +284,8 @@
         "image": "http://dummyimage.com/144x100.png/cc0000/ffffff",
         "price": "€1,61",
         "description": "orci pede venenatis non sodales sed tincidunt eu",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 33,
@@ -261,7 +293,8 @@
         "image": "http://dummyimage.com/191x100.png/ff4444/ffffff",
         "price": "€3,32",
         "description": "consectetuer eget rutrum at lorem integer tincidunt ante",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 34,
@@ -269,7 +302,8 @@
         "image": "http://dummyimage.com/146x100.png/dddddd/000000",
         "price": "€9,90",
         "description": "primis in faucibus orci luctus et ultrices posuere cubilia",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 35,
@@ -277,7 +311,8 @@
         "image": "http://dummyimage.com/195x100.png/cc0000/ffffff",
         "price": "€3,43",
         "description": "justo in blandit ultrices enim",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 36,
@@ -285,7 +320,8 @@
         "image": "http://dummyimage.com/188x100.png/cc0000/ffffff",
         "price": "€6,71",
         "description": "vel enim sit amet nunc viverra dapibus",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 37,
@@ -293,7 +329,8 @@
         "image": "http://dummyimage.com/131x100.png/dddddd/000000",
         "price": "€9,50",
         "description": "duis mattis egestas metus aenean",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 38,
@@ -301,7 +338,8 @@
         "image": "http://dummyimage.com/128x100.png/cc0000/ffffff",
         "price": "€9,00",
         "description": "rutrum ac lobortis vel dapibus at diam",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 39,
@@ -309,7 +347,8 @@
         "image": "http://dummyimage.com/189x100.png/dddddd/000000",
         "price": "€8,52",
         "description": "quisque arcu libero rutrum ac lobortis vel dapibus at diam",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 40,
@@ -317,7 +356,8 @@
         "image": "http://dummyimage.com/166x100.png/5fa2dd/ffffff",
         "price": "€5,82",
         "description": "eu magna vulputate luctus cum sociis",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 41,
@@ -325,7 +365,8 @@
         "image": "http://dummyimage.com/216x100.png/ff4444/ffffff",
         "price": "€5,48",
         "description": "vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 42,
@@ -333,7 +374,8 @@
         "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
         "price": "€4,54",
         "description": "malesuada in imperdiet et commodo",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 43,
@@ -341,7 +383,8 @@
         "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
         "price": "€3,70",
         "description": "vestibulum ante ipsum primis in faucibus orci luctus et",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 44,
@@ -349,7 +392,8 @@
         "image": "http://dummyimage.com/193x100.png/dddddd/000000",
         "price": "€3,17",
         "description": "amet eros suspendisse accumsan tortor quis turpis sed",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 45,
@@ -357,7 +401,8 @@
         "image": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
         "price": "€4,78",
         "description": "ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 46,
@@ -365,7 +410,8 @@
         "image": "http://dummyimage.com/202x100.png/dddddd/000000",
         "price": "€4,50",
         "description": "aliquet pulvinar sed nisl nunc rhoncus",
-        "category": "bebida"
+        "category": "bebida",
+        "stock": 10
     },
     {
         "id": 47,
@@ -373,7 +419,8 @@
         "image": "http://dummyimage.com/247x100.png/cc0000/ffffff",
         "price": "€1,05",
         "description": "quam a odio in hac habitasse platea",
-        "category": "comida"
+        "category": "comida",
+        "stock": 10
     },
     {
         "id": 48,
@@ -381,7 +428,8 @@
         "image": "http://dummyimage.com/164x100.png/dddddd/000000",
         "price": "€8,97",
         "description": "magna at nunc commodo placerat praesent blandit nam nulla integer",
-        "category": "menaje"
+        "category": "menaje",
+        "stock": 10
     },
     {
         "id": 49,
@@ -389,7 +437,8 @@
         "image": "http://dummyimage.com/165x100.png/5fa2dd/ffffff",
         "price": "€6,60",
         "description": "orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",
-        "category": "limpieza"
+        "category": "limpieza",
+        "stock": 10
     },
     {
         "id": 50,
@@ -397,406 +446,7 @@
         "image": "http://dummyimage.com/163x100.png/cc0000/ffffff",
         "price": "€1,23",
         "description": "pretium iaculis justo in hac habitasse",
-        "category": "menaje"
-    },
-    {
-        "id": 51,
-        "product": "Cookie Double Choco",
-        "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
-        "price": "€6,80",
-        "description": "venenatis tristique fusce congue diam id ornare",
-        "category": "menaje"
-    },
-    {
-        "id": 52,
-        "product": "Soup - Knorr, Veg / Beef",
-        "image": "http://dummyimage.com/144x100.png/dddddd/000000",
-        "price": "€7,47",
-        "description": "nisl aenean lectus pellentesque eget nunc donec quis",
-        "category": "menaje"
-    },
-    {
-        "id": 53,
-        "product": "Mussels - Frozen",
-        "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
-        "price": "€3,75",
-        "description": "eu massa donec dapibus duis at velit eu est",
-        "category": "bebida"
-    },
-    {
-        "id": 54,
-        "product": "Cranberries - Fresh",
-        "image": "http://dummyimage.com/133x100.png/5fa2dd/ffffff",
-        "price": "€3,74",
-        "description": "a odio in hac habitasse platea dictumst maecenas ut massa",
-        "category": "limpieza"
-    },
-    {
-        "id": 55,
-        "product": "Basil - Pesto Sauce",
-        "image": "http://dummyimage.com/182x100.png/dddddd/000000",
-        "price": "€3,24",
-        "description": "faucibus orci luctus et ultrices posuere cubilia curae",
-        "category": "menaje"
-    },
-    {
-        "id": 56,
-        "product": "Wine - Rhine Riesling Wolf Blass",
-        "image": "http://dummyimage.com/153x100.png/ff4444/ffffff",
-        "price": "€8,66",
-        "description": "lorem quisque ut erat curabitur gravida nisi at nibh in",
-        "category": "limpieza"
-    },
-    {
-        "id": 57,
-        "product": "Wine - Red, Metus Rose",
-        "image": "http://dummyimage.com/107x100.png/cc0000/ffffff",
-        "price": "€9,39",
-        "description": "a nibh in quis justo maecenas rhoncus aliquam lacus morbi",
-        "category": "menaje"
-    },
-    {
-        "id": 58,
-        "product": "Venison - Denver Leg Boneless",
-        "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
-        "price": "€7,09",
-        "description": "pulvinar lobortis est phasellus sit amet",
-        "category": "menaje"
-    },
-    {
-        "id": 59,
-        "product": "Sprouts - Baby Pea Tendrils",
-        "image": "http://dummyimage.com/156x100.png/dddddd/000000",
-        "price": "€8,35",
-        "description": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue",
-        "category": "comida"
-    },
-    {
-        "id": 60,
-        "product": "Lobster - Tail, 3 - 4 Oz",
-        "image": "http://dummyimage.com/116x100.png/dddddd/000000",
-        "price": "€7,06",
-        "description": "nisi nam ultrices libero non mattis",
-        "category": "comida"
-    },
-    {
-        "id": 61,
-        "product": "Mussels - Frozen",
-        "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
-        "price": "€3,86",
-        "description": "erat nulla tempus vivamus in felis eu sapien",
-        "category": "limpieza"
-    },
-    {
-        "id": 62,
-        "product": "Allspice - Jamaican",
-        "image": "http://dummyimage.com/197x100.png/ff4444/ffffff",
-        "price": "€9,74",
-        "description": "erat eros viverra eget congue eget semper",
-        "category": "bebida"
-    },
-    {
-        "id": 63,
-        "product": "Pepsi - Diet, 355 Ml",
-        "image": "http://dummyimage.com/197x100.png/ff4444/ffffff",
-        "price": "€1,70",
-        "description": "dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien",
-        "category": "limpieza"
-    },
-    {
-        "id": 64,
-        "product": "Lime Cordial - Roses",
-        "image": "http://dummyimage.com/150x100.png/cc0000/ffffff",
-        "price": "€7,02",
-        "description": "volutpat sapien arcu sed augue aliquam",
-        "category": "comida"
-    },
-    {
-        "id": 65,
-        "product": "Bread - Crusty Italian Poly",
-        "image": "http://dummyimage.com/217x100.png/dddddd/000000",
-        "price": "€2,01",
-        "description": "pede libero quis orci nullam",
-        "category": "menaje"
-    },
-    {
-        "id": 66,
-        "product": "Onions - Pearl",
-        "image": "http://dummyimage.com/139x100.png/ff4444/ffffff",
-        "price": "€7,98",
-        "description": "mauris morbi non lectus aliquam sit amet diam in magna",
-        "category": "comida"
-    },
-    {
-        "id": 67,
-        "product": "Wine - Spumante Bambino White",
-        "image": "http://dummyimage.com/123x100.png/ff4444/ffffff",
-        "price": "€4,01",
-        "description": "augue quam sollicitudin vitae consectetuer eget rutrum at",
-        "category": "bebida"
-    },
-    {
-        "id": 68,
-        "product": "Water - Perrier",
-        "image": "http://dummyimage.com/144x100.png/ff4444/ffffff",
-        "price": "€3,38",
-        "description": "morbi non quam nec dui",
-        "category": "bebida"
-    },
-    {
-        "id": 69,
-        "product": "Kiwi Gold Zespri",
-        "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
-        "price": "€7,95",
-        "description": "in porttitor pede justo eu",
-        "category": "bebida"
-    },
-    {
-        "id": 70,
-        "product": "Eggwhite Frozen",
-        "image": "http://dummyimage.com/181x100.png/ff4444/ffffff",
-        "price": "€6,44",
-        "description": "quis tortor id nulla ultrices aliquet",
-        "category": "limpieza"
-    },
-    {
-        "id": 71,
-        "product": "Bread Sour Rolls",
-        "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
-        "price": "€3,97",
-        "description": "metus aenean fermentum donec ut",
-        "category": "limpieza"
-    },
-    {
-        "id": 72,
-        "product": "Lettuce - Boston Bib",
-        "image": "http://dummyimage.com/191x100.png/cc0000/ffffff",
-        "price": "€8,96",
-        "description": "eget congue eget semper rutrum nulla nunc purus phasellus in",
-        "category": "comida"
-    },
-    {
-        "id": 73,
-        "product": "Brownies - Two Bite, Chocolate",
-        "image": "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
-        "price": "€5,52",
-        "description": "aenean lectus pellentesque eget nunc",
-        "category": "limpieza"
-    },
-    {
-        "id": 74,
-        "product": "Appetizer - Mango Chevre",
-        "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
-        "price": "€9,51",
-        "description": "in felis eu sapien cursus vestibulum proin",
-        "category": "menaje"
-    },
-    {
-        "id": 75,
-        "product": "Wine - Riesling Alsace Ac 2001",
-        "image": "http://dummyimage.com/101x100.png/cc0000/ffffff",
-        "price": "€1,98",
-        "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia",
-        "category": "bebida"
-    },
-    {
-        "id": 76,
-        "product": "Beer - Rickards Red",
-        "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
-        "price": "€6,34",
-        "description": "sapien a libero nam dui proin",
-        "category": "menaje"
-    },
-    {
-        "id": 77,
-        "product": "Rabbit - Saddles",
-        "image": "http://dummyimage.com/188x100.png/dddddd/000000",
-        "price": "€6,20",
-        "description": "rhoncus dui vel sem sed sagittis nam congue risus",
-        "category": "limpieza"
-    },
-    {
-        "id": 78,
-        "product": "Muffin Mix - Carrot",
-        "image": "http://dummyimage.com/131x100.png/ff4444/ffffff",
-        "price": "€7,46",
-        "description": "quis orci nullam molestie nibh in lectus pellentesque",
-        "category": "comida"
-    },
-    {
-        "id": 79,
-        "product": "Kippers - Smoked",
-        "image": "http://dummyimage.com/183x100.png/dddddd/000000",
-        "price": "€5,54",
-        "description": "ac est lacinia nisi venenatis tristique fusce congue diam id",
-        "category": "limpieza"
-    },
-    {
-        "id": 80,
-        "product": "Soup - Campbellschix Stew",
-        "image": "http://dummyimage.com/191x100.png/5fa2dd/ffffff",
-        "price": "€5,07",
-        "description": "nisl venenatis lacinia aenean sit amet justo",
-        "category": "limpieza"
-    },
-    {
-        "id": 81,
-        "product": "Avocado",
-        "image": "http://dummyimage.com/126x100.png/dddddd/000000",
-        "price": "€2,77",
-        "description": "sed augue aliquam erat volutpat in congue",
-        "category": "comida"
-    },
-    {
-        "id": 82,
-        "product": "Capers - Pickled",
-        "image": "http://dummyimage.com/163x100.png/dddddd/000000",
-        "price": "€4,38",
-        "description": "mattis odio donec vitae nisi",
-        "category": "menaje"
-    },
-    {
-        "id": 83,
-        "product": "Jam - Raspberry,jar",
-        "image": "http://dummyimage.com/158x100.png/ff4444/ffffff",
-        "price": "€5,84",
-        "description": "et magnis dis parturient montes nascetur ridiculus mus etiam vel",
-        "category": "bebida"
-    },
-    {
-        "id": 84,
-        "product": "Garlic - Peeled",
-        "image": "http://dummyimage.com/121x100.png/dddddd/000000",
-        "price": "€7,27",
-        "description": "curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor",
-        "category": "comida"
-    },
-    {
-        "id": 85,
-        "product": "Flavouring Vanilla Artificial",
-        "image": "http://dummyimage.com/207x100.png/ff4444/ffffff",
-        "price": "€2,27",
-        "description": "nec euismod scelerisque quam turpis adipiscing lorem vitae",
-        "category": "comida"
-    },
-    {
-        "id": 86,
-        "product": "Wine - Touraine Azay - Le - Rideau",
-        "image": "http://dummyimage.com/139x100.png/ff4444/ffffff",
-        "price": "€2,54",
-        "description": "vel est donec odio justo sollicitudin ut suscipit",
-        "category": "bebida"
-    },
-    {
-        "id": 87,
-        "product": "Wine - Magnotta - Belpaese",
-        "image": "http://dummyimage.com/247x100.png/5fa2dd/ffffff",
-        "price": "€2,34",
-        "description": "mattis odio donec vitae nisi nam ultrices libero non mattis",
-        "category": "comida"
-    },
-    {
-        "id": 88,
-        "product": "Beer - Molson Excel",
-        "image": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
-        "price": "€8,81",
-        "description": "auctor sed tristique in tempus sit amet sem fusce",
-        "category": "menaje"
-    },
-    {
-        "id": 89,
-        "product": "Mints - Striped Red",
-        "image": "http://dummyimage.com/193x100.png/dddddd/000000",
-        "price": "€5,53",
-        "description": "lacinia eget tincidunt eget tempus vel pede morbi porttitor",
-        "category": "menaje"
-    },
-    {
-        "id": 90,
-        "product": "Lamb - Loin, Trimmed, Boneless",
-        "image": "http://dummyimage.com/104x100.png/dddddd/000000",
-        "price": "€2,28",
-        "description": "velit vivamus vel nulla eget eros",
-        "category": "limpieza"
-    },
-    {
-        "id": 91,
-        "product": "Cheese - Brie, Cups 125g",
-        "image": "http://dummyimage.com/149x100.png/dddddd/000000",
-        "price": "€1,16",
-        "description": "proin eu mi nulla ac",
-        "category": "comida"
-    },
-    {
-        "id": 92,
-        "product": "Tea - Orange Pekoe",
-        "image": "http://dummyimage.com/244x100.png/5fa2dd/ffffff",
-        "price": "€1,83",
-        "description": "ac consequat metus sapien ut",
-        "category": "limpieza"
-    },
-    {
-        "id": 93,
-        "product": "Cream - 35%",
-        "image": "http://dummyimage.com/165x100.png/cc0000/ffffff",
-        "price": "€5,63",
-        "description": "est donec odio justo sollicitudin ut suscipit a feugiat",
-        "category": "comida"
-    },
-    {
-        "id": 94,
-        "product": "Wine - Red, Antinori Santa",
-        "image": "http://dummyimage.com/178x100.png/ff4444/ffffff",
-        "price": "€2,00",
-        "description": "imperdiet nullam orci pede venenatis non sodales",
-        "category": "limpieza"
-    },
-    {
-        "id": 95,
-        "product": "Petite Baguette",
-        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
-        "price": "€3,53",
-        "description": "sem praesent id massa id",
-        "category": "menaje"
-    },
-    {
-        "id": 96,
-        "product": "Garbage Bags - Black",
-        "image": "http://dummyimage.com/110x100.png/cc0000/ffffff",
-        "price": "€5,24",
-        "description": "non ligula pellentesque ultrices phasellus id",
-        "category": "menaje"
-    },
-    {
-        "id": 97,
-        "product": "Napkin Colour",
-        "image": "http://dummyimage.com/196x100.png/ff4444/ffffff",
-        "price": "€5,59",
-        "description": "turpis eget elit sodales scelerisque",
-        "category": "comida"
-    },
-    {
-        "id": 98,
-        "product": "Cheese - Fontina",
-        "image": "http://dummyimage.com/142x100.png/ff4444/ffffff",
-        "price": "€3,32",
-        "description": "sit amet consectetuer adipiscing elit",
-        "category": "comida"
-    },
-    {
-        "id": 99,
-        "product": "Everfresh Products",
-        "image": "http://dummyimage.com/227x100.png/cc0000/ffffff",
-        "price": "€3,98",
-        "description": "est et tempus semper est quam pharetra magna",
-        "category": "comida"
-    },
-    {
-        "id": 100,
-        "product": "Cheese - Cream Cheese",
-        "image": "http://dummyimage.com/214x100.png/5fa2dd/ffffff",
-        "price": "€4,28",
-        "description": "habitasse platea dictumst maecenas ut massa quis augue",
-        "category": "bebida"
+        "category": "menaje",
+        "stock": 10
     }
 ]
