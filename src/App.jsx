@@ -1,14 +1,28 @@
 import { ItemDetailContainer } from "./components/ItemDetailContainer/ItemDetailContainer";
 import { Navbar } from "./components/Navbar/Navbar";
 import { ItemListContainer2 } from "./components/ItemListContainer/ItemListContainer2";
+import { Nosotros } from "./components/Nosotros/Nosotros";
+import { Route, Routes, BrowserRouter } from "react-router-dom";
 import "./main.css"
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <ItemListContainer2 />
-      <ItemDetailContainer itemId={2}/>
+      {/* Encerramos todo el render de componentes en el router */}
+      <BrowserRouter>
+
+        <Navbar />
+
+        {/* Definimos el routing */}
+        <Routes>
+          <Route path="/" element={<ItemListContainer2 />} /> {/* Inicio */}
+          <Route path="/item/:id" element={<ItemDetailContainer />} /> {/* Item :id (dinámico) */}
+          <Route path="/productos" element={<ItemListContainer2 />} /> {/* Productos */}
+          <Route path="/productos/:categoria" element={<ItemListContainer2 />} /> {/* Categorias */}
+          <Route path="/nosotros" element={<Nosotros />} /> {/* Nosotros */}
+        </Routes>
+
+      </BrowserRouter>
     </div>
   );
 }

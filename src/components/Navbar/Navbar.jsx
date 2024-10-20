@@ -1,12 +1,20 @@
+import { Link } from "react-router-dom";
+
 export const Navbar = () => {
     return (
         <nav className="navbar">
-            <a href="#" className="logo"><h1>Mi tienda</h1></a>
+            <Link to="/" className="logo"><h1>Mi tienda</h1> </Link>
             <ul className="menu">
-                <li><a className="menu-link" href="#">Inicio</a></li>
-                <li><a className="menu-link" href="#">Nosotros</a></li>
-                <li><a className="menu-link" href="#">Productos</a></li>
-                <li><a className="menu-link" href="#">Contacto</a></li>
+                {/* para activar el routing spa */}
+                {/* se modifican los elementos anchor por componentes Link */}
+                {/* el atributo "href" de los anchor se cambia a "to" */}
+                <li><Link className="menu-link" to="/">Inicio</Link></li>
+                <li><Link className="menu-link" to="/productos">Productos</Link></li>
+                <li><Link className="menu-link" to="/productos/comida">Comida</Link></li>
+                <li><Link className="menu-link" to="/productos/bebida">Bebida</Link></li>
+                <li><Link className="menu-link" to="/productos/menaje">Menaje</Link></li>
+                <li><Link className="menu-link" to="/productos/limpieza">Limpieza</Link></li>
+                <li><Link className="menu-link" to="/nosotros">Nosotros</Link></li>
             </ul>
         </nav>
     );

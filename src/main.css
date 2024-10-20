@@ -177,3 +177,7 @@
     border: 2px solid var(--clr-main);
     outline: 2px solid var(--clr-main);
 }
+
+.texto--cursiva{
+    font-style: italic;
+}
