@@ -7,7 +7,7 @@ export const Item = ({producto}) => {
             <img src={producto.image} alt={producto.product}></img>
             <div>
                 <h4>{producto.product}</h4>
-                <p>Precio: {producto.price}</p>
+                <p>Precio: {producto.price}€</p>
                 <p>Categoria: <span className="texto--cursiva">{capitalizeFirstLetter(producto.category)}</span></p>
                 {/* routing spa --> cambiar <a> por componente <Link /> */}
                 {/* y atributo "href" por prop "to" */}

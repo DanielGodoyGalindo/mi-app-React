@@ -6,8 +6,8 @@
 }
 
 :root {
-    --clr-main: #c56cee;
-    --clr-main-light: #efdaf9;
+    --color-main: #6cb1ee;
+    --color-main-light: #dae4f9;
 }
 
 .container {
@@ -25,8 +25,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--clr-main);
-    border-bottom: 3px solid black;
+    background-color: var(--color-main);
+    border-bottom: 3px solid lightblue;
 }
 
 .logo {
@@ -67,7 +67,7 @@
 
 .producto > div {
     padding: 1rem;
-    background-color: var(--clr-main-light);
+    background-color: var(--color-main-light);
     display: flex;
     flex-direction: column;
     gap: .5rem;
@@ -81,7 +81,7 @@
 
 .producto .ver-mas {
     text-decoration: none;
-    background-color: var(--clr-main);
+    background-color: var(--color-main);
     color: white;
     padding: .5rem;
     width: max-content;
@@ -90,7 +90,7 @@
 }
 
 .producto .ver-mas:hover {
-    background-color: black;
+    background-color: dodgerblue;
     color: white;
 }
 
@@ -129,7 +129,7 @@
 }
 
 .item-count button, .agregar-al-carrito, .enviar {
-    background-color: var(--clr-main);
+    background-color: var(--color-main);
     border: 0;
     width: 2rem;
     height: 2rem;
@@ -142,7 +142,7 @@
     justify-content: center;
     text-align: center;
     line-height: 1;
-    border: 2px solid var(--clr-main);
+    border: 2px solid var(--color-main);
     transition: .2s;
 }
 
@@ -155,7 +155,7 @@
     width: auto;
     height: auto;
     margin-top: 1rem;
-    padding: 1rem;
+    padding: 0.7rem;
 }
 
 .formulario {
@@ -174,8 +174,8 @@
 
 .formulario input:focus {
     outline: 0;
-    border: 2px solid var(--clr-main);
-    outline: 2px solid var(--clr-main);
+    border: 2px solid var(--color-main);
+    outline: 2px solid var(--color-main);
 }
 
 .texto--cursiva{
