@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useContext } from "react";
-import { CartContext } from "../../context/CarContext";
+import { CartContext } from "../../context/CartContext";
 
 export const CartWidget = () => {
 
@@ -8,8 +8,8 @@ export const CartWidget = () => {
 
     return (
         <div>
-            <Link className="menu-link" to="/carrito">
-                🛒 <span className="numerito">{cantidadEnCarrito()}</span>
+            <Link className="menu-link carrito" to="/carrito" title="Carrito">
+                🛒 <span className="productsCounter">{cantidadEnCarrito()}</span>
             </Link>
         </div>
     );

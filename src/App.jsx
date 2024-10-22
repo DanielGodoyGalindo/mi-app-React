@@ -3,9 +3,10 @@ import { Navbar } from "./components/Navbar/Navbar";
 import { ItemListContainer2 } from "./components/ItemListContainer/ItemListContainer2";
 import { Nosotros } from "./components/Nosotros/Nosotros";
 import { ContactoHookForm } from "./components/Contacto/ContactoHookForm";
-import { CartProvider } from "./context/CarContext";
-import { Route, Routes, BrowserRouter } from "react-router-dom";
+import { CartProvider } from "./context/CartContext";
 import { Carrito } from "./components/Carrito/Carrito";
+import { CheckOut } from "./components/CheckOut/CheckOut";
+import { Route, Routes, BrowserRouter } from "react-router-dom";
 import "./main.css"
 
 
@@ -28,6 +29,7 @@ function App() {
             <Route path="/nosotros" element={<Nosotros />} /> {/* Nosotros */}
             <Route path="/contacto" element={<ContactoHookForm />} /> {/* Contacto */}
             <Route path="/carrito" element={<Carrito />} /> {/* Carrito */}
+            <Route path="/checkout" element={<CheckOut />} /> {/* CHeckOut */}
           </Routes>
 
         </BrowserRouter>
